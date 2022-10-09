@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/VaIOReTto1/manifest.json</loc>
+    <loc>https://vaioretto1.github.io/manifest.json</loc>
     
     <lastmod>2022-10-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/VaIOReTto1/posts/4a17b156.html</loc>
+    <loc>https://vaioretto1.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2022-10-09</lastmod>
     
@@ -21,7 +21,7 @@
   
 
   <url>
-    <loc>https://github.com/VaIOReTto1</loc>
+    <loc>https://vaioretto1.github.io/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
