@@ -3932,8 +3932,8 @@ h1.page-title + .tag-cloud-list {
   transition: all 0.4s;
 }
 .post-reward .reward-button:hover {
-  -webkit-box-shadow: inset 20em 0 0 0 var(--btn-hover-color);
-  box-shadow: inset 20em 0 0 0 var(--btn-hover-color);
+  -webkit-box-shadow: inset 15em 0 0 0 var(--btn-hover-color);
+  box-shadow: inset 15em 0 0 0 var(--btn-hover-color);
 }
 .post-reward .reward-button:hover .reward-main {
   display: block;
