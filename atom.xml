@@ -6,7 +6,7 @@
   <link href="https://vaioretto1.github.io/atom.xml" rel="self"/>
   
   <link href="https://vaioretto1.github.io/"/>
-  <updated>2022-10-09T10:57:17.137Z</updated>
+  <updated>2022-10-10T15:05:47.541Z</updated>
   <id>https://vaioretto1.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://vaioretto1.github.io/posts/d87f7e0c.html"/>
+    <id>https://vaioretto1.github.io/posts/d87f7e0c.html</id>
+    <published>2022-10-10T15:00:14.000Z</published>
+    <updated>2022-10-10T15:05:47.541Z</updated>
+    
+    
+    
+    
+    
+    <category term="c++" scheme="https://vaioretto1.github.io/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
