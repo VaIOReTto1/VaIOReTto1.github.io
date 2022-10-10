@@ -51,5 +51,16 @@
     </entry>
     
     
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.min.js"/>
+      <url>/js/runtime.min.js</url>
+      
+        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2022-09-10 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (Number(time[2])>7)){    currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/VaIOReTto-%E5%AD%A6%E4%B9%A0%E4%B8%AD-lightgrey' title='在提升自己能力'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class='https://img.shields.io/badge/VaIOReTto-%E4%BC%91%E6%81%AF%E4%B8%AD-6adea8.svg' title='休息了就应该多放松自己'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);]]></content>
+      
+    </entry>
+    
+    
   
 </search>
