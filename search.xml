@@ -208,17 +208,6 @@
     
     <entry>
       <title></title>
-      <link href="/live2d/model/shifuku/shifuku.model.json"/>
-      <url>/live2d/model/shifuku/shifuku.model.json</url>
-      
-        <content type="html"><![CDATA[{"version":"Sample 1.0.0","model":"shifuku.moc","textures":["shifuku.1024/texture_00.png","shifuku.1024/texture_01.png","shifuku.1024/texture_02.png"],"motions":{"tap":[{"file":"motions/motion02.mtn"},{"file":"motions/motion03.mtn"},{"file":"motions/motion04.mtn"},{"file":"motions/motion05.mtn"},{"file":"motions/motion06.mtn"},{"file":"motions/motion08.mtn"},{"file":"motions/motion09.mtn"},{"file":"motions/motion10.mtn"},{"file":"motions/motion11.mtn"},{"file":"motions/motion12.mtn"}],"idle":[{"file":"motions/motion01.mtn"},{"file":"motions/motion07.mtn"}]},"expressions":[{"name":"f01.exp.json","file":"expressions/f01.exp.json"},{"name":"f02.exp.json","file":"expressions/f02.exp.json"},{"name":"f03.exp.json","file":"expressions/f03.exp.json"},{"name":"f04.exp.json","file":"expressions/f04.exp.json"},{"name":"f05.exp.json","file":"expressions/f05.exp.json"},{"name":"f06.exp.json","file":"expressions/f06.exp.json"},{"name":"f07.exp.json","file":"expressions/f07.exp.json"},{"name":"f08.exp.json","file":"expressions/f08.exp.json"}],"physics":"physics.json","pose":"pose.json"}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/live2d/model/shifuku/expressions/f03.exp.json"/>
       <url>/live2d/model/shifuku/expressions/f03.exp.json</url>
       
@@ -311,6 +300,17 @@
       <url>/live2d/js/index.js</url>
       
         <content type="html"><![CDATA[function browserRedirect() {    var sUserAgent = navigator.userAgent.toLowerCase();    var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";    var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";    var bIsMidp = sUserAgent.match(/midp/i) == "midp";    var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";    var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";    var bIsAndroid = sUserAgent.match(/android/i) == "android";    var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";    var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";    if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {} else {        document.write('<link rel="stylesheet" href="/live2d/css/live2d.css" /><div id="landlord"> <div class="message" style="opacity:0.5"></div> <canvas id="live2d" width="280" height="250" class="live2d"></canvas> <div class="hide-button"><font color="#FFFFFF">隐藏</font></div></div>');        document.write('<script type="text/javascript"> var message_Path = "/live2d/"</script>');        document.write('<script type="text/javascript"> var home_Path = "https://vaioretto1.github.io/" </script>');        document.write('<script type="text/javascript" src="/live2d/js/live2d.js"></script>');        document.write('<script type="text/javascript" src="/live2d/js/message.js"></script>');        document.write('<script type="text/javascript"> loadlive2d("live2d", "/live2d/model/shifuku/shifuku.model.json");</script>');    }}browserRedirect();]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d/model/shifuku/14.json"/>
+      <url>/live2d/model/shifuku/14.json</url>
+      
+        <content type="html"><![CDATA[{"type":"Live2D Model Setting","name":"Violet","model":"Violet.moc","textures":["Violet.1024/texture_00.png"],"layout":{"width":2.9564,"center_x":-0.0967,"center_y":-0.3463},"motions":{"idle":[{"file":"motions/idle01.mtn","fade_in":0,"fade_out":0},{"file":"motions/idle02.mtn","fade_in":0,"fade_out":0},{"file":"motions/idle03.mtn","fade_in":0,"fade_out":0},{"file":"motions/idle04.mtn","fade_in":0,"fade_out":0}],"start":[{"file":"motions/start.mtn","sound":"sound/start.mp3","text":"","fade_in":0,"fade_out":0}],"tap_head":[{"file":"motions/tap_face.mtn","text":"","fade_in":0,"fade_out":0}],"tap_body":[{"file":"motions/tap_body.mtn","sound":"sound/tap_body.mp3","text":"","fade_in":0,"fade_out":0}],"tap_arm_left":[{"file":"motions/tap_Lhand.mtn","sound":"sound/tap_Lhand.mp3","text":"","fade_in":0,"fade_out":0}],"tap_arm_right":[{"file":"motions/tap_Rhand.mtn","sound":"sound/tap_Rhand.mp3","text":"","fade_in":0,"fade_out":0}],"tap_skirt":[{"file":"motions/tap_qunzi.mtn","text":"","fade_in":0,"fade_out":0}],"new_msg":[{"file":"motions/tap_Lhand.mtn","sound":"sound/tap_Lhand.mp3","text":"","fade_in":0,"fade_out":0}]},"hit_areas":[{"name":"head","id":"D_REF.face"},{"name":"body","id":"D_REF.body"},{"name":"arm_left","id":"D_REF.Lhand"},{"name":"arm_right","id":"D_REF.Rhand"},{"name":"skirt","id":"D_REF.QUNZI"}],"loop_params":[{"id":"PARAM_HBPL","duration":8000,"type":0,"weight":1}]}]]></content>
       
     </entry>
     

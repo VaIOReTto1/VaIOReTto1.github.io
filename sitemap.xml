@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://vaioretto1.github.io/live2d/model/shifuku/shifuku.model.json</loc>
-    
-    <lastmod>2022-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://vaioretto1.github.io/live2d/model/shifuku/pose.json</loc>
     
     <lastmod>2022-10-11</lastmod>
@@ -149,6 +140,15 @@
     <loc>https://vaioretto1.github.io/manifest.json</loc>
     
     <lastmod>2022-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/14.json</loc>
+    
+    <lastmod>2018-06-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
