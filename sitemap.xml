@@ -2,6 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f08.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f07.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f06.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f05.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f04.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f03.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f02.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/expressions/f01.exp.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/shifuku.model.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/pose.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/model/shifuku/physics.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaioretto1.github.io/live2d/message.json</loc>
+    
+    <lastmod>2022-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vaioretto1.github.io/posts/undefined.html</loc>
     
     <lastmod>2022-10-11</lastmod>
