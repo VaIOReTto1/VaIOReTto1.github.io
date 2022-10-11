@@ -3,8 +3,8 @@
     position: fixed;
     left: 80px;
     bottom: 0;
-    width: 100px;
-    height: 300px;
+    width: 280px;
+    height: 250px;
     z-index: 10000;
     font-size: 0;
     transition: all .3s ease-in-out;
