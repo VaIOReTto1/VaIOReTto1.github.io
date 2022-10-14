@@ -92,7 +92,7 @@ initTips();
             } else if (now > 21 && now <= 23) {
                 text = '已经这么晚了呀，早点休息吧，晚安~~';
             } else {
-                text = '嗨~ 快来逗我玩吧！';
+                text = '爱，是什么？你能为我解答吗';
             }
         }else {
             text = '欢迎阅读<span style="color:#0099cc;">「 ' + document.title.split(' - ')[0] + ' 」</span>';
