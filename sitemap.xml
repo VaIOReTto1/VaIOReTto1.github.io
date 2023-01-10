@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vaioretto1.github.io/posts/327b16ec.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vaioretto1.github.io/posts/c990c56c.html</loc>
     
     <lastmod>2022-12-30</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://vaioretto1.github.io/posts/10179f5c.html</loc>
+    <loc>https://vaioretto1.github.io/posts/eb15c63d.html</loc>
     
     <lastmod>2022-12-30</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://vaioretto1.github.io/posts/eb15c63d.html</loc>
+    <loc>https://vaioretto1.github.io/posts/10179f5c.html</loc>
     
     <lastmod>2022-12-30</lastmod>
     
@@ -184,7 +193,7 @@
 
   <url>
     <loc>https://vaioretto1.github.io/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,14 +201,14 @@
   
   <url>
     <loc>https://vaioretto1.github.io/tags/c-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://vaioretto1.github.io/tags/c/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -208,7 +217,7 @@
   
   <url>
     <loc>https://vaioretto1.github.io/categories/c/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
